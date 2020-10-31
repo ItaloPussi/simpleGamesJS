@@ -1,6 +1,6 @@
 # Simple Games JS
 
-Nesse repositório você irá encontrar simples jogos criados com Canvas (HTML5) e JS. Periodicamente, pretendendo incrementá-lo com novos subdiretórios de acordo com a minha criatividade e conforme for praticando a linguagem e a utilização do canvas.
+Nesse repositório você irá encontrar simples jogos criados JS e eventualmente com bloco Canvas. Periodicamente, pretendendo incrementá-lo com novos subdiretórios de acordo com a minha criatividade e conforme for praticando a linguagem e a utilização do canvas.
 
 ## Instalação
 

@@ -1,13 +1,16 @@
 # Simple Games JS
 
-Nesse repositório você irá encontrar simples jogos criados JS e eventualmente com bloco Canvas. Periodicamente, pretendendo incrementá-lo com novos subdiretórios de acordo com a minha criatividade e conforme for praticando a linguagem e a utilização do canvas.
+<a href="https://github.com/ItaloPussi/simpleGamesJS/blob/master/readme.pt.md">Versão em Português</a> 👈
 
-## Instalação
+In this repository you will find simple games created JS and eventually with a Canvas block. Periodically, intending to increase it with new subdirectories according to my creativity and as I practice the language and the use of the canvas.
 
-Caso deseje testar alguma funcionalidade, basta clonar o subdiretório escolhido e iniciar o arquivo ```index.html```.
+## Installation
 
-## Contribuindo
-Caso queira sugerir algum jogo interessante  para ser feito em JS, sinta-se livre para abrir uma issue. 
+If you want to test some functionality, just clone the directory, access the chosen subdirectory and start the file ```index.html```
 
-## Licença
+## Contributing
+
+If you want to suggest an interesting game to be done in JS, feel free to open an issue.
+
+## Licence
 [MIT](https://choosealicense.com/licenses/mit/)

@@ -2,7 +2,7 @@
 
 <a href="https://github.com/ItaloPussi/simpleGamesJS/blob/master/readme.pt.md">Versão em Português</a> 👈
 
-In this repository you will find simple games created JS and eventually with a Canvas block. Periodically, intending to increase it with new subdirectories according to my creativity and as I practice the language and the use of the canvas.
+In this repository you will find simple games created in JS and eventually with a Canvas block. Periodically, intending to increase it with new subdirectories according to my creativity and as I practice the language and the use of the canvas.
 
 ## Installation
 
